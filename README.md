@@ -4,11 +4,10 @@ reaperで選択itemの長さをポップアップに出力するスクリプト
 <img width="795" height="589" alt="image" src="https://github.com/user-attachments/assets/44d4141d-f6ef-4214-a855-a236b97f5c49" />
 
 **Luaスクリプトの導入手順**
-
-フォルダを開く: REAPERのメニューバーから Options > Show REAPER resource path in explorer/finder を選択します。
-スクリプトを保存: 開いたフォルダの中にある Scripts フォルダを開き、その中にダウンロードした .lua ファイルを配置します。
-アクションリストを開く: REAPERのメニューから Actions > Show action list を開きます。
-スクリプトの読み込み: 右下の New action > Load Reascript... をクリックし、手順2で保存した .lua ファイルを選択して開きます。
+1. フォルダを開く: REAPERのメニューバーから Options > Show REAPER resource path in explorer/finder を選択します。
+2. スクリプトを保存: 開いたフォルダの中にある Scripts フォルダを開き、その中にダウンロードした .lua ファイルを配置します。
+3.アクションリストを開く: REAPERのメニューから Actions > Show action list を開きます。
+4.スクリプトの読み込み: 右下の New action > Load Reascript... をクリックし、手順2で保存した .lua ファイルを選択して開きます。
 
 **ツールバーへ登録しとくと便利**
 
