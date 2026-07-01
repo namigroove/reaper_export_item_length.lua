@@ -1,0 +1,2 @@
+# reaper_export_item_length.lua
+reaperでitemの長さをポップアップに出力するスクリプト　ライブ尺把握用に
